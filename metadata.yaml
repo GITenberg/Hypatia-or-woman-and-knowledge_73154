@@ -1,5 +1,8 @@
 _repo: Hypatia-or-woman-and-knowledge_73154
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73154-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Russell, Dora
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56956
     wikipedia: https://en.wikipedia.org/wiki/Dora_Russell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73154#Hypatia-or-woman-and-knowledge
 gutenberg_issued: '2024-03-12'
 gutenberg_type: Text
 identifiers:
